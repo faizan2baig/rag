@@ -1,0 +1,32 @@
+# Core
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-huggingface
+langchain-chroma
+
+# Vector database
+chromadb
+
+# OpenAI
+openai
+
+# Hugging Face
+transformers
+huggingface-hub
+sentence-transformers
+accelerate
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# Utilities
+numpy
+tqdm
